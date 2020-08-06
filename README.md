@@ -1,6 +1,9 @@
 # predict_interception
 In this project I attempt to build a classification model to predict the occurrence of one of the most crucial plays in American Football: the interception or pick. It happens when the team attacking attempts to pass the ball and it ends up being caught by someone from the defending team. Using play-by-play data of previous plays, plus some information that can be known about the play itself prior to it taking place, the model outputs a probability of an interception happening as a result of the play. To train and test the model, a public dataset from Kaggle is used, containing play-by-play data from 10 NFL seasons.
 
+You can read more about the project on my [blog post](https://medium.com/@marcelo.cardoso.work/predicting-likelihood-of-interception-in-nfl-games-10dabdf14471)
+
+
 ## Language:
 * Python
 
